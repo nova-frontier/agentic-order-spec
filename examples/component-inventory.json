@@ -1,0 +1,17 @@
+{
+  "data_kind": "illustrative",
+  "components": [
+    {
+      "name": "groundstate-inventory-check",
+      "version": "starter-v0.1",
+      "kind": "code",
+      "source_url": "https://github.com/nova-frontier/agentic-order-spec/blob/main/inventory_check.py",
+      "license_expression": "MIT",
+      "license_text_url": "https://github.com/nova-frontier/agentic-order-spec/blob/main/LICENSE",
+      "intended_use": "演示元数据检查；不包含第三方模型、数据集或部署服务",
+      "review": {
+        "status": "pending"
+      }
+    }
+  ]
+}
